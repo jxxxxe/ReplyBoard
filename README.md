@@ -1,4 +1,4 @@
-# 게시판 만들기
+# 게시판
 by [Jeongeun An](https://github.com/jxxxxe)
 </br>
 </br>

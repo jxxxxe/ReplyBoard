@@ -45,7 +45,7 @@ by [Jeongeun An](https://github.com/jxxxxe)
 </br>
 
 
-<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/4imagefile.png?raw=true" width="488" height="255"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/4imagefile2.png?raw=true" width="488" height="255">
+<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/4imagefile.png?raw=true" width="380" height="200"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/4imagefile2.png?raw=true" width="380" height="200">
 
 *게시글 쓰기-이미지 업로드*
 
@@ -72,7 +72,7 @@ by [Jeongeun An](https://github.com/jxxxxe)
 </br>
 
 
-<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/7update.png?raw=true" width="488" height="255"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/8update-view.png?raw=true" width="488" height="255">
+<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/7update.png?raw=true" width="380" height="200"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/8update-view.png?raw=true" width="380" height="200">
 
 *게시글 수정*
 
@@ -81,7 +81,7 @@ by [Jeongeun An](https://github.com/jxxxxe)
 </br>
 
 
-<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/9reply.png?raw=true" width="488" height="255"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/11reply-view.png?raw=true" width="488" height="255">
+<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/9reply.png?raw=true" width="380" height="200"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/11reply-view.png?raw=true" width="380" height="200">
 
 *답글 쓰기*
 

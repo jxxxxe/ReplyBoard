@@ -99,7 +99,7 @@ by [Jeongeun An](https://github.com/jxxxxe)
 </br>
 
 
-<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/12delete.png?raw=true" width="120" height="60"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/13check-delete.png?raw=true" width="120" height="60">
+<img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/12delete.png?raw=true" width="488" height="255"> <img src="https://github.com/jxxxxe/ReplyBoard/blob/master/readme_image/13check-delete.png?raw=true" width="488" height="255">
 
 *삭제하기*
 </br>(게시글을 삭제하면 그에 달린 답글도 같이 삭제 됨)
